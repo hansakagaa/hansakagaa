@@ -1,8 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ashen Hansaka</h1>
 <h3 align="center">A Student @ Software Engineering</h3>
-<h4 align="center">---------------------------------------------------------------------------------------------</ha>
+<h4 align="center">______________________________________________________________________________________________________________</ha>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="500"/>
+</div>
+
+<h4 align="center">______________________________________________________________________________________________________________</ha>
+<h5>  </h5>
 
 <p align="left"> <a href="https://twitter.com/hasii_boy" target="blank"><img src="https://img.shields.io/twitter/follow/hasii_boy?logo=twitter&style=for-the-badge" alt="hasii_boy" /></a> </p>
+
+
+
+
 
 - 🎓 I’m currently study on [Institute of Java & Software Engineering (IJSE)](https://ijse.lk/index.jsp)
 
