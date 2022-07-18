@@ -37,13 +37,11 @@
 ---
 <h3 align="left">Used Languages:</h3>
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansakagaa&theme=gotham&layout=compact)](https://github.com/hansakagaa/hansakagaa)
 <br>
 
 ---
 <h3 align="left">Streak Stats:</h3>
-
 
 ![Ashen's github stats](https://github-readme-stats.vercel.app/api?username=hansakagaa&show_icons=true&theme=gotham) 
 [![](https://github-readme-streak-stats.herokuapp.com?user=hansakagaa&theme=soft-green)](https://git.io/streak-stats)
