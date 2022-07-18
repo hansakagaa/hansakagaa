@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%ff38384E&center=true&vCenter=true&width=500&height=45&lines=A+Student+@+Software+Engineering;Institute+of+Software+Engineering+(IJSE)">
 </p >
 
----
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="500"/>
-</div>
 
 ---
 <p align="left"> <a href="https://twitter.com/hansakagaa" target="blank"><img src="https://img.shields.io/twitter/follow/hansakagaa?logo=twitter&style=for-the-badge" alt="hansakagaa" /></a> </p>
@@ -30,7 +26,7 @@
   <a href="https://twitter.com/hansakagaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hansakagaa" height="30" width="30" /></a>  
   <a href="https://linkedin.com/in/hansakagaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hansakagaa" height="30" width="30" /></a>   
    <a href="https://fb.com/profile.php?id=100026801940424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100026801940424" height="30" width="30" /></a>  
-  <a href="https://instagram.com/hansakagaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hansakagaa" height="30" width="30" /></a>  
+  <a href="https://instagram.com/hasi_ya__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hansakagaa" height="30" width="30" /></a>  
   <a href="https://app.slack.com/client/T03LW78179A/D03MCLVB0SD/rimeto_profile/U03MPPVTU56" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="client/T03LW78179A/D03MCLVB0SD/rimeto_profile/U03MPPVTU56" height="30" width="30" /></a>
 </p>
 
@@ -40,14 +36,14 @@
 
 ---
 <h3 align="left">Used Languages:</h3>
-<br>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansakagaa&theme=gotham&layout=compact)](https://github.com/hansakagaa/hansakagaa)
 <br>
 
 ---
 <h3 align="left">Streak Stats:</h3>
-<br>
+
 
 ![Ashen's github stats](https://github-readme-stats.vercel.app/api?username=hansakagaa&show_icons=true&theme=gotham) 
 [![](https://github-readme-streak-stats.herokuapp.com?user=hansakagaa&theme=soft-green)](https://git.io/streak-stats)
