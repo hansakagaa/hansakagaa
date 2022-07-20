@@ -8,7 +8,7 @@
 ---
 <p align="left"> <a href="https://twitter.com/hansakagaa" target="blank"><img src="https://img.shields.io/twitter/follow/hansakagaa?logo=twitter&style=for-the-badge" alt="hansakagaa" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://kamsoft.co/assets/images/design-uiux-services.gif">
 
 - 🎓 I currently study at [Institute of Java & Software Engineering (IJSE)](https://ijse.lk/index.jsp)
 
