@@ -1,12 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%fff2004E&size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashen+Hansaka;)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=32ff7e&size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashen+Hansaka;)](https://git.io/typing-svg) 
 <h4 align="center"><b><i>Full Stack Software Developer from Sri Lanka</i></b></h4>
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%ff38384E&center=true&vCenter=true&width=500&height=45&lines=A+Student+@+Software+Engineering;Institute+of+Software+Engineering+(IJSE)">
+  <img src="https://readme-typing-svg.herokuapp.com?color=17c0eb&center=true&vCenter=true&width=800&height=45&lines=A+Student+@+Software+Engineering;Institute+of+Java+%26+Software+Engineering+(IJSE)">
 </p >
 
-
 ---
-<p align="left"> <a href="https://twitter.com/hansakagaa" target="blank"><img src="https://img.shields.io/twitter/follow/hansakagaa?logo=twitter&style=for-the-badge" alt="hansakagaa" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hansakagaa" target="_blank"><img src="https://komarev.com/ghpvc/?username=hansakagaa&label=Profile%20views&color=0e75b6" alt="hansakagaa"/></a> </p>
+<p align="left"> <a href="https://twitter.com/hansakagaa" target="_blank"><img src="https://img.shields.io/twitter/follow/hansakagaa?logo=twitter&style=for-the-badge" alt="hansakagaa" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://kamsoft.co/assets/images/design-uiux-services.gif">
 
@@ -23,11 +23,11 @@
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/hansakagaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hansakagaa" height="30" width="30" /></a>  
-  <a href="https://linkedin.com/in/hansakagaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hansakagaa" height="30" width="30" /></a>   
-   <a href="https://fb.com/profile.php?id=100026801940424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100026801940424" height="30" width="30" /></a>  
-  <a href="https://instagram.com/hasi_ya__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hansakagaa" height="30" width="30" /></a>  
-  <a href="https://app.slack.com/client/T03LW78179A/D03MCLVB0SD/rimeto_profile/U03MPPVTU56" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="client/T03LW78179A/D03MCLVB0SD/rimeto_profile/U03MPPVTU56" height="30" width="30" /></a>
+<a href="https://twitter.com/hansakagaa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hansakagaa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hansakagaa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hansakagaa" height="30" width="40" /></a>
+<a href="https://facebook.com/hansakagaa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hansakagaa" height="30" width="40" /></a>
+<a href="https://instagram.com/hasi_ya__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasi_ya__" height="30" width="40" /></a>
+<a href="https://app.slack.com/client/T03LW78179A/D03MCLVB0SD/rimeto_profile/U03MPPVTU56" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="hasi_ya__" height="30" width="30" /></a>
 </p>
 
 ---
