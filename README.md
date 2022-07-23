@@ -73,3 +73,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/hansakagaa/hansakagaa?&labelColor=black&color=f7b731&style=for-the-badge)
 ![GitHub LastCommit](https://img.shields.io/github/last-commit/hansakagaa/hansakagaa?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=32ff7e&height=75&section=footer"/>
+</p>
