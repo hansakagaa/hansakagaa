@@ -74,7 +74,7 @@
   ---
 <div align="center">
 
-<img align="center" alt="Coding" width="900" height="400" src="https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif">  <br>
+<img align="center" alt="Coding" width="750" height="300" src="https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif">  <br>
 
 ![repo size](https://img.shields.io/github/repo-size/hansakagaa/hansakagaa?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
 ![GitHub forks](https://img.shields.io/github/forks/hansakagaa/hansakagaa?&labelColor=black&color=0fb9b1&style=for-the-badge)
