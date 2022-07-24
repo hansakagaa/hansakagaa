@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on **Always.**
 
-- 👨‍💻 All of my projects are available at [Ashen Hansaka](https://hansakagaa.github.io/My-Portfoliyo/)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/hansakagaa?tab=repositories" target="_blank"><b><i><s>Ashen Hansaka</s></i></b></a>
 
 - 📫 How to reach me <a href="mailto:hansakagaa@gmail.com"><b><i>Send Us an Email</b></i></a>
 
@@ -28,11 +28,11 @@
 <h3 align="left">Connect with me:</h3>
     
  <p align="left">
-    <a href="https://twitter.com/hansakagaa" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="hansakagaa" height="30" width="30" />  </a>
-    <a href="https://linkedin.com/in/hansakagaa" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="hansakagaa" height="30" width="30" />  </a>
-    <a href="https://facebook.com/hansakagaa" target="_blank"><img align="center" src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico" alt="hansakagaa" height="30" width="30" />  </a>
-    <a href="https://instagram.com/hasi_ya__" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="hasi_ya__" height="30" width="30" />  </a>
-    <a href="https://app.slack.com/client/T03LW78179A/D03MCLVB0SD/rimeto_profile/U03MPPVTU56" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="hasi_ya__" height="30" width="30" /></a>
+    <a href="https://twitter.com/hansakagaa" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="hansakagaa" height="30" width="30" />  </a>
+    <a href="https://linkedin.com/in/hansakagaa" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="hansakagaa" height="30" width="30" />  </a>
+    <a href="https://facebook.com/hansakagaa" target="_blank"> <img align="center" src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico" alt="hansakagaa" height="30" width="30" />  </a>
+    <a href="https://instagram.com/hasi_ya__" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="hasi_ya__" height="30" width="30" />  </a>
+    <a href="https://app.slack.com/client/T03LW78179A/D03MCLVB0SD/rimeto_profile/U03MPPVTU56" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="hansakagaa" height="30" width="30" />  </a>
  </p>
 
   ---
