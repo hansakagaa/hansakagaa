@@ -50,7 +50,7 @@
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
     <a href="https://www.jetbrains.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="jetbrains" width="40" height="40"/> </a> 
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/visual-studio-code-2019.png" alt="vsstudio" width="40" height="40"/> </a> 
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vsstudio" width="40" height="40"/> </a> 
     <a href="https://gluonhq.com/products/scene-builder/" target="_blank" rel="noreferrer"> <img src="https://gluonhq.com//wp-content/uploads/2015/02/SceneBuilderLogo.png" alt="scene-builder" width="40" height="40"/> </a> 
     <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"> <img src="https://clipground.com/images/netbeans-logo-clipart-8.png" alt="netbeans" width="40" height="40"/> </a> 
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> 
