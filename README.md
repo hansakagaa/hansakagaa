@@ -56,6 +56,7 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> 
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  width="40" height="40"/> </a> 
       <a href="https://brave.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/brave/brave-icon.svg" alt="brave" width="40" height="40"/> </a> 
+<a href="https://www.geany.org/" target="_blank" rel="noreferrer"> <img src="https://www.geany.org/static/img/geany.svg" alt="geany" width="40" height="40"/> </a> 
   </p>
 
 ---
