@@ -1,15 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=32ff7e&size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashen+Hansaka;)](https://git.io/typing-svg) 
-<h4 align="center"><b><i>Full Stack Software Developer from Sri Lanka</i></b></h4>
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=17c0eb&center=true&vCenter=true&width=800&height=45&lines=A+Student+@+Software+Engineering;Institute+of+Java+%26+Software+Engineering+(IJSE)">
 </p >
 
 ---
-
+<h3 align="center"><i>Full Stack Software Developer</i> <samp>from</samp> <i><s>Sri Lanka</s></i> <img src="https://flagdownload.com/wp-content/uploads/Flag_of_Sri_Lanka_Flat_Wavy-4096x2356.png" alt="Sri lanka" width="40"></h3>
   <p align="left"> 
     <a href="https://twitter.com/hansakagaa" target="_blank"><img src="https://komarev.com/ghpvc/?username=hansakagaa&label=Profile%20views&color=0e75b6" alt="hansakagaa"/></a> 
     <br>
-    <a href="https://twitter.com/hansakagaa" target="_blank"><img src="https://img.shields.io/twitter/follow/hansakagaa?logo=twitter&style=for-the-badge" alt="hansakagaa" /></a> 
+    <a href="https://twitter.com/hansakagaa" target="_blank"><img src="https://img.shields.io/twitter/follow/hansakagaa?logo=twitter&style=for-the-badge" alt="Twitter" /></a> 
   </p>
 
 <img align="right" alt="Coding" width="400" src="https://kamsoft.co/assets/images/design-uiux-services.gif">
