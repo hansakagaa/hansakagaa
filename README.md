@@ -6,9 +6,10 @@
 ---
 <h3 align="center"><i>Full Stack Software Developer</i> <samp>from</samp> <i><s>Sri Lanka</s></i> <img src="https://flagdownload.com/wp-content/uploads/Flag_of_Sri_Lanka_Flat_Wavy-4096x2356.png" alt="Sri lanka" width="40"></h3>
   <p align="left"> 
-    <a href="https://twitter.com/hansakagaa" target="_blank"><img src="https://komarev.com/ghpvc/?username=hansakagaa&label=Profile%20views&color=0e75b6" alt="hansakagaa"/></a> 
+    <a href="https://github.com/hansakagaa" target="_blank"><img src="https://img.shields.io/github/followers/hansakagaa?color=2BDD1F&logo=GitHub&style=flat" alt="Twitter" /></a> 
+    <a href="https://github.com/hansakagaa" target="_blank"><img src="https://komarev.com/ghpvc/?username=hansakagaa&label=Profile%20views&color=0e75b6" alt="hansakagaa"/></a> 
     <br>
-    <a href="https://twitter.com/hansakagaa" target="_blank"><img src="https://img.shields.io/twitter/follow/hansakagaa?logo=twitter&style=for-the-badge" alt="Twitter" /></a> 
+    <a href="https://twitter.com/hansakagaa" target="_blank"><img src="https://img.shields.io/twitter/follow/hansakagaa?color=0652DD&logo=twitter&style=for-the-badge" alt="Twitter" /></a>
   </p>
 
 <img align="right" alt="Coding" width="400" src="https://kamsoft.co/assets/images/design-uiux-services.gif">
@@ -68,7 +69,7 @@
   <h3 align="left">Streak Stats:</h3>
 
 ![Ashen's github stats](https://github-readme-stats.vercel.app/api?username=hansakagaa&show_icons=true&theme=gotham) 
-[![](https://github-readme-streak-stats.herokuapp.com?user=hansakagaa&theme=soft-green)](https://git.io/streak-stats)
+[![](https://github-readme-streak-stats.herokuapp.com?user=hansakagaa&theme=chartreuse-dark)](https://git.io/streak-stats)
 <br>
 
 ---
