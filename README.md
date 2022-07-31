@@ -62,7 +62,7 @@
 ---
 <h3 align="left">Used Languages:</h3>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansakagaa&theme=gotham&layout=compact)](https://github.com/hansakagaa/hansakagaa)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansakagaa&theme=gotham&layout=compact)
 <br>
 
 ---
