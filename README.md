@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on **Always.**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/hansakagaa?tab=repositories" target="_blank"><b><i><s>Ashen Hansaka</s></i></b></a>
+- 👨‍💻 All of my projects are available at --> <a href="https://github.com/hansakagaa?tab=repositories" target="_blank"><img src="https://github.com/hansakagaa/Private-Repo/blob/main/images/click.png" alt="Click" height="30" width="30"></a> <--
 
 - 📫 How to reach me <a href="mailto:hansakagaa@gmail.com"><b><i>Send Us an Email</b></i></a>
 
