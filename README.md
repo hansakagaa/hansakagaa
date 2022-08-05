@@ -1,6 +1,7 @@
+  <img align="right" alt="Room" width="150" src="https://media1.giphy.com/media/26xBEHMc1NgkDyGwU/giphy.gif?cid=63e6b07eidq0gys2htpdklfyatqc34na7bs63ztfuhdp28ce&rid=giphy.gif&ct=g">
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=32ff7e&size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashen+Hansaka;)](https://git.io/typing-svg) 
 <p align="center">
-  <img align="right" alt="Room" width="200" src="https://media1.giphy.com/media/26xBEHMc1NgkDyGwU/giphy.gif?cid=63e6b07eidq0gys2htpdklfyatqc34na7bs63ztfuhdp28ce&rid=giphy.gif&ct=g">
   <img src="https://readme-typing-svg.herokuapp.com?color=17c0eb&center=true&vCenter=true&width=800&height=45&lines=A+Student+@+Software+Engineering;Institute+of+Java+%26+Software+Engineering+(IJSE)">
 </p >
 
