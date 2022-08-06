@@ -72,7 +72,8 @@
 ---
   <h3 align="left">Streak Stats:</h3>
 
-![Ashen's github stats](https://github-readme-stats.vercel.app/api?username=hansakagaa&show_icons=true&theme=gotham) 
+![Ashen's github stats](https://github-readme-stats.vercel.app/api?username=hansakagaa&show_icons=true&theme=gotham)
+<img align="right" alt="Room" width="350" src="https://cdn.dribbble.com/users/827256/screenshots/3535876/anim.gif">
 [![](https://github-readme-streak-stats.herokuapp.com?user=hansakagaa&theme=chartreuse-dark)](https://git.io/streak-stats)
 <br>
 
