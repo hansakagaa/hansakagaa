@@ -11,7 +11,8 @@
     <a href="https://github.com/hansakagaa" target="_blank"><img src="https://img.shields.io/github/followers/hansakagaa?color=2BDD1F&logo=GitHub&style=flat" alt="Twitter" /></a> 
     <a href="https://github.com/hansakagaa" target="_blank"><img src="https://komarev.com/ghpvc/?username=hansakagaa&label=Profile%20views&color=0e75b6" alt="hansakagaa"/></a> 
     <br>
-    <a href="https://twitter.com/hansakagaa" target="_blank"><img src="https://img.shields.io/twitter/follow/hansakagaa?color=0652DD&logo=twitter&style=for-the-badge" alt="Twitter" /></a>
+    <a href="https://twitter.com/hansakagaa" target="_blank"><img src="https://img.shields.io/twitter/follow/hansakagaa?label=FOLLOW&color=0652DD&logo=twitter&style=for-the-badge" alt="Twitter" /></a>
+    <a href="tel:+94762020312"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" /></a>
   </p>
 
 <img align="right" alt="Coding" width="400" src="https://kamsoft.co/assets/images/design-uiux-services.gif">
@@ -30,11 +31,12 @@
 <h3 align="left">Connect with me:</h3>
     
  <p align="left">
-    <a href="https://twitter.com/hansakagaa" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="hansakagaa" height="30" width="30" />  </a>
-    <a href="https://linkedin.com/in/hansakagaa" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="hansakagaa" height="30" width="30" />  </a>
-    <a href="https://facebook.com/hansakagaa" target="_blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="hansakagaa" height="30" width="30" />  </a>
-    <a href="https://instagram.com/hasi_ya__" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="hasi_ya__" height="30" width="30" />  </a>
-    <a href="https://app.slack.com/client/T03LW78179A/D03MCLVB0SD/rimeto_profile/U03MPPVTU56" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="hansakagaa" height="30" width="30" />  </a>
+    <a href="https://twitter.com/hansakagaa" target="_blank"> <img align="center" src="https://github.com/hansakagaa/Private-Repo/blob/main/images/twitter.png" alt="Twitter" height="30" width="30" />  </a>
+    <a href="https://linkedin.com/in/hansakagaa" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30" />  </a>
+    <a href="https://facebook.com/hansakagaa" target="_blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" height="30" width="30" />  </a>
+    <a href="https://instagram.com/hasi_ya__" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30" />  </a>
+    <a href="" target="_blank"> <img align="center" src="https://seeklogo.com/images/S/signal-logo-20A1616F60-seeklogo.com.png" alt="Signal" height="30" width="30" />  </a>
+    <a href="https://app.slack.com/client/T03LW78179A/D03MCLVB0SD/rimeto_profile/U03MPPVTU56" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" height="30" width="30" />  </a>
  </p>
 
 ---
