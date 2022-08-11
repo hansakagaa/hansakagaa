@@ -80,6 +80,12 @@
 <br>
 
 ---
+  <h3 align="left">Summary Card:</h3>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hansakagaa&theme=monokai)
+
+
+---
 <div align="center">
 
 <img align="center" alt="Coding" src="https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif">  <br>
