@@ -17,15 +17,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://kamsoft.co/assets/images/design-uiux-services.gif">
 
-- 🎓 I currently study at <a href="https://ijse.lk">Institute of Java & Software Engineering (IJSE)</a>
-
-- 👯 I’m looking to collaborate on **Always.**
-
-- 👨‍💻 All of my projects are available at --> <abbr title="Clic to view" ><a href="https://github.com/hansakagaa?tab=repositories" target="_blank"><img src="https://github.com/hansakagaa/Private-Repo/blob/main/images/click.png" alt="Click" height="30" width="30"></a></abbr> <--
-
-- 📫 How to reach me --> <abbr title="Clic to send email" ><a href="mailto:hansakagaa@gmail.com"><img src="https://github.com/hansakagaa/Private-Repo/blob/main/images/mail.png" alt="Mail" height="30" width="30"></a></abbr> <-- </a>
-
-- ⚡ Fun fact **I think I am funny**
+<ul>
+    <li>🎓 I currently study at <a href="https://ijse.lk">Institute of Java & Software Engineering (IJSE)</a></li><br>
+    <li>👯 I’m looking to collaborate on <b>Always</b>.</li>
+    <li>👨‍💻 All of my projects are available at --> <abbr title="Clic to view" ><a href="https://github.com/hansakagaa?tab=repositories" target="_blank"><img src="https://github.com/hansakagaa/Private-Repo/blob/main/images/click.png" alt="Click" height="30" width="30"></a></abbr> <--</li>
+    <li>📫 How to reach me --> <abbr title="Clic to send email" ><a href="mailto:hansakagaa@gmail.com"><img src="https://github.com/hansakagaa/Private-Repo/blob/main/images/mail.png" alt="Mail" height="30" width="30"></a></abbr> <-- </a></li><br>
+    <li>⚡ Fun fact <b>I think I am funny</b></li>
+</ul>
 
 ---
 <h3 align="left">Connect with me:</h3>
@@ -90,7 +88,7 @@
 
 <img align="center" alt="Coding" src="https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif">  <br>
 
-![repo size](https://img.shields.io/github/repo-size/hansakagaa/hansakagaa?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
+![Contributors](https://img.shields.io/github/contributors/hansakagaa/hansakagaa?&labelColor=black&color=4cd137&style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/hansakagaa/hansakagaa?&labelColor=black&color=0fb9b1&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/hansakagaa/hansakagaa?&labelColor=black&color=f7b731&style=for-the-badge)
 ![GitHub LastCommit](https://img.shields.io/github/last-commit/hansakagaa/hansakagaa?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
