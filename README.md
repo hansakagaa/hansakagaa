@@ -1,4 +1,4 @@
-<img align="right" alt="Room" width="150" src="https://media1.giphy.com/media/26xBEHMc1NgkDyGwU/giphy.gif?cid=63e6b07eidq0gys2htpdklfyatqc34na7bs63ztfuhdp28ce&rid=giphy.gif&ct=g">
+<img align="right" alt="Room" width="200" src="https://media1.giphy.com/media/26xBEHMc1NgkDyGwU/giphy.gif?cid=63e6b07eidq0gys2htpdklfyatqc34na7bs63ztfuhdp28ce&rid=giphy.gif&ct=g">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=32ff7e&size=32&vCenter=true&&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashen;)](https://git.io/typing-svg) 
 
