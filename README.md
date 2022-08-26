@@ -18,7 +18,7 @@
 <img align="right" alt="Coding" width="400" src="https://kamsoft.co/assets/images/design-uiux-services.gif">
 
 <ul>
-    <li>🎓 I currently study at <a href="https://ijse.lk">Institute of Java & Software Engineering (IJSE)</a></li><br>
+    <li>🎓 I currently study at <a href="https://ijse.lk">Institute of Java & Software Engineering</a></li><br>
     <li>👯 I’m looking to collaborate on <b>Always</b>.</li>
     <li>👨‍💻 All of my projects are available at --> <abbr title="Clic to view" ><a href="https://github.com/hansakagaa?tab=repositories" target="_blank"><img src="https://github.com/hansakagaa/Private-Repo/blob/main/images/click.png" alt="Click" height="30" width="30"></a></abbr> <--</li>
     <li>📫 How to reach me --> <abbr title="Clic to send email" ><a href="mailto:hansakagaa@gmail.com"><img src="https://github.com/hansakagaa/Private-Repo/blob/main/images/mail.png" alt="Mail" height="30" width="30"></a></abbr> <-- </a></li><br>
